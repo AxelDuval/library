@@ -7,19 +7,32 @@ Il s'agit d'une application développée dans le cadre de mon poste de formateur
 Au travers de cet exercice, les étudiants apprennent à :
 
 Démarrer un projet sous Symfony
+
 Utiliser les outils en ligne de commande
+
 Respecter l'architecture MVC
+
 Utiliser un ORM
+
 Gérer un modèle objet
+
 Organiser les templates
+
 Utiliser le moteur de template Twig
+
 Gérer des formulaires objets
+
 Gérer la sécurité de manière simple
+
 Utiliser les fixtures
+
+
 Consignes
 Vous êtes une équipe de développeurs juniors embauchés par une collectivité territoriale. Vous devez créer une application qui permettra aux bibliothécaires de la ville de gérer le catalogue de livres ainsi que les prêts et les rendus.
 
+
 Attention l’application n’est pas accessible aux utilisateurs. Seuls les employés des bibliothèques utilisent l’application. Quand quelqu’un veut emprunter un livre, il se présente au bureau de l’employé avec sa carte de membre.
+
 
 L’application permettra de :
 
@@ -40,17 +53,27 @@ Pour rappel, voici une liste non exhaustive des informations utiles à connaîtr
 Spécifications techniques :
 
 Framework Symfony 4, dernière version maintenue
+
 Sécurité gérée sans bundle
+
 Crud réalisé sans l'outil Doctrine de génération du CRUD
+
 Utilisation d'un framework CSS pour le front, idéalement Bootstrap 4
+
 Pour aller plus loin
+
 Nous vous avons demandé quelques fonctionnalités basiques d’un système de gestion de bibliothèque mais vous pouvez aller bien plus loin et le transformer en véritable application professionnelle.
 
 Voici par exemple les fonctionnalités que vous pouvez rajouter :
 
 Proposer un formulaire pour permettre d’ajouter un utilisateur
+
 Affiner les formulaires de tri et permettre de trier selon tous les critères existants (auteur, date de parution etc)
+
 Gérer les dates de prêt et de retour afin de toujours savoir exactement le nombres de jours restant avant le rendu
+
 Avoir accès à une page de détail des informations utilisateur qui liste tous les livres que l’utilisateur a emprunté
+
 Avoir plusieurs exemplaires d’un même livre en stock
+
 Mettre en place un système de pagination pour le catalogue de livres
