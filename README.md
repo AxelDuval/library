@@ -1,6 +1,8 @@
 
 Application Symfony pour la gestion de bibliothèques
+
 Il s'agit d'une application développée dans le cadre de mon poste de formateur en développement web. L'objectif est que les apprenants produisent une application sous Symfony permettant à un bibliothécaire de gérer les emprunts et les rendus dans un catalogue de livres.
+
 
 Au travers de cet exercice, les étudiants apprennent à :
 
